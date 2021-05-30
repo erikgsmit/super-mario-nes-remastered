@@ -1,1 +1,1 @@
-# super-mario-nes-remastered
+# Super Mario NES Remastered
